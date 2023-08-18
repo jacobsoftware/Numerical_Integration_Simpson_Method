@@ -1,2 +1,2 @@
-# Numerical_Integration_Simpson_Method
+# Numerical Integration Simpson Method
 Aplikacja okienkowa służaća do wyliczenia całki numerycznej metodą Simpsona
